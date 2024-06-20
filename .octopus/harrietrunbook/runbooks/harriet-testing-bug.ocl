@@ -19,9 +19,55 @@ process {
             properties = {
                 Octopus.Action.Script.ScriptBody = <<-EOT
                     "hello world"
-                    
-                    Testing all of the things. 
-                    🐶
+                    this is me
+                    Life should be mm-mm yeah
+                    Fun for everyone
+                    Every now and then I'm insecure
+                    Let me show you life can be so pure
+                    Seize the day
+                    Wear a big happy smile on your face
+                    Every life a little rain will fall
+                    That won't change my attitude at all
+                    You are you, I am me, we'll be free
+                    Hello world, this is me
+                    Life should be mm-mm yeah
+                    Fun for everyone
+                    Hello world come and see
+                    Life should be
+                    Fun for everyone
+                    Life is easy if you wear a smile
+                    Just be yourself, don't ever change your style
+                    I like you, you like me
+                    Let's have fun, be happy
+                    Look into my eyes and tell me straight
+                    For you I'll make the whole world wait
+                    Let me know if it's so let it show
+                    Hello world, this is me
+                    Life should be mm-mm yeah
+                    Fun for everyone
+                    Hello world, come and see
+                    This is me
+                    Come on baby, don't be afraid
+                    Come on baby, it's not too late, say you do
+                    Won't you open up the door and let me in
+                    Di-di-di yeah, di-di
+                    Yeah, yeah, yeah
+                    Open up the door for me
+                    Yeah, yeah, mm-mm yeah
+                    Hello world, this is me
+                    Life should be mm-mm yeah
+                    Fun for everyone
+                    Hello world, come and see
+                    Life should be
+                    Fun for everyone
+                    Hello world, this is me
+                    Life should be
+                    Fun for everyone
+                    Fun for you and
+                    Fun for me and
+                    Fun for everyone
+                    Fun for everyone
+                    🐴
                     EOT
                 Octopus.Action.Script.ScriptSource = "Inline"
                 Octopus.Action.Script.Syntax = "PowerShell"
